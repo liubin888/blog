@@ -1,6 +1,8 @@
 # blog -chuchur.com   
 
 
+- [javascript-reduce](https://chuchur.com/articel/js-reduce)  -2018-08-14
+- [javascript-中Array一些操作方法](https://chuchur.com/articel/js-array-methods)  -2018-08-03
 - [javascript-继承之jquery](https://chuchur.com/articel/js-extend-jquery)  -2018-08-03
 - [javascript 队列](https://chuchur.com/articel/js-queue)  -2018-08-02
 - [javascript 递归](https://chuchur.com/articel/js-recursion)  -2018-08-02
