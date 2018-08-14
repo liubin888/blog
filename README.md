@@ -1,6 +1,6 @@
 # blog -chuchur.com   
 
-
+## 2018
 - [javascript-reflect](https://chuchur.com/articel/js-reflect)  -2018-08-14
 - [javascript-reduce](https://chuchur.com/articel/js-reduce)  -2018-08-14
 - [javascript-中Array一些操作方法](https://chuchur.com/articel/js-array-methods)  -2018-08-03
@@ -27,6 +27,8 @@
 - [关于ajax无刷新上传和下载](https://chuchur.com/articel/ajax-upload-download)  -2018-01-22
 - [关于Vue.js的v-for，key的顺序改变，影响过渡动画表现](https://chuchur.com/articel/vue-v-for-transition)  -2018-01-22
 - [新年快乐🎈🎈](https://chuchur.com/articel/happy-new-year)  -2018-01-01
+
+## 2017
 - [KUI fro Vue](https://chuchur.com/articel/vue-kui)  -2017-12-20
 - [给站点开启https和http2](https://chuchur.com/articel/web-https-http2)  -2017-11-04
 - [mac os 命令](https://chuchur.com/articel/macos-command)  -2017-10-25
