@@ -1,5 +1,9 @@
 # blog -chuchur.com   
 
+## 2019   
+- [js-时间戳运算](https://chuchur.com/article/js-timestamp)  -2019-01-17
+- [亚马逊主机开启https](https://www.chuchur.com/article/amazon-certbot-auto-nginx)  -2019-01-17
+
 ## 2018
 - [javascript-reflect](https://chuchur.com/article/js-reflect)  -2018-08-14
 - [javascript-reduce](https://chuchur.com/article/js-reduce)  -2018-08-14
