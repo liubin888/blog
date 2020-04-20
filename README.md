@@ -1,4 +1,4 @@
-# BLOG -[CHUCHUR.COM](https://chuchur.com)   
+# BLOG -[CHUCHUR.COM](https://www.chuchur.com)   
 
 ### 2019
 - [Vue transition动画](https://www.chuchur.com/article/vue-transitions-animate) -2019/4/18   
